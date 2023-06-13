@@ -44,4 +44,6 @@ dresses as per label.
 • Since most reviews are highly positive it will be a challenge to balance specificity
 with high sensitivity.
 
+### Replication
+The notebook can be easily replicated. Data is provided along with the notebook
 
