@@ -1,4 +1,4 @@
-# Sentimental-Analysis-of-Clothing-Reviews
+### Sentimental-Analysis-of-Clothing-Reviews
 Open Source Dataset used to Analyze Sentiments of Clothing Reviews Given By Customers. 
 
 We intend to achieve our goals for this analysis by using various Machine learning
@@ -8,7 +8,7 @@ classification algorithms that successfully classify review sentiment along with
 report based on sentiment analysis that can help the organization move forward with the
 aid of data driven decision making.
 
-# Data Description
+### Data Description
 A women's clothing e-commerce dataset centered on customer reviews is found here. Its
 nine supportive elements provide an excellent setting for dissecting the text's various
 dimensions. The data set includes 23486 Rows and 10 feature variables:
@@ -24,8 +24,7 @@ product where 1 indicates a recommendation and 0 indicates a disapproval
 customers who found this review positive.
 • Division Name: Categorical name of the product high level division.
 
-# Interesting Facts
-
+### Interesting Facts
 After visualization and analysis, we could explore plentiful about the nature of our data,
 relevant columns, categorical distributions, correlations etc. We have tried to summarize
 the main points and our findings below. This will help us move forward when we reach
