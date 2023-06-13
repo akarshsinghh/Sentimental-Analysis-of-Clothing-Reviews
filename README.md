@@ -44,11 +44,4 @@ dresses as per label.
 • Since most reviews are highly positive it will be a challenge to balance specificity
 with high sensitivity.
 
-# Results
 
-Sr No         Model            Sensitivity     Specificity    ROC/AUC
-1             KNN              98.2            66.8           0.85314
-2             Naïve Bayes      93.1            89.1           0.96551
-3             Gradient Boost   92.9            95.0           0.96961
-4             Random Forrest   94.7            86.1           0.92582
-5             Neural Network   96.2            56.9           0.81345
